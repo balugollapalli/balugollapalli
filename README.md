@@ -71,23 +71,12 @@
   <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
   </a>
-  
-  <!-- Socket.io badge -->
-  <a href="https://socket.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="socket.io"/>
-  </a>
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind css"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   </a>
 </p>
 
@@ -122,14 +111,8 @@
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
-  </a>
   <a href="https://render.com/" target="_blank">
     <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
   </a>
 </p>
 
@@ -152,9 +135,6 @@
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/> 
   </a>
   <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank">
     <img src="https://img.shields.io/badge/Xilinx%20VIVADO-FF0000.svg?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/> 
