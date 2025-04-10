@@ -114,6 +114,9 @@
   <a href="https://render.com/" target="_blank">
     <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="render"/>
   </a>
+  <a href="https://netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  </a>
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
